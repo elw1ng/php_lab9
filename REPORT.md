@@ -38,4 +38,3 @@ OK (22 tests, 22 assertions)
 Навмисно змінене очікуване значення дало один невдалий тест:
 
 ![Навмисно невдалий PHPUnit-тест](screenshots/tests_failed.png)
-

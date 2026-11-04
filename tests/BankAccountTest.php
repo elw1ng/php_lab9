@@ -60,4 +60,3 @@ class BankAccountTest extends TestCase
         $account->withdraw(100.0);
     }
 }
-

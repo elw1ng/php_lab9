@@ -31,4 +31,3 @@ powershell -ExecutionPolicy Bypass -File .\run-tests.ps1
 - `examples/simple_test.php` — навчальний приклад простого тесту з теоретичного документа.
 
 Для варіанта 10 функція обчислює `3xy - x`, якщо `x` і `y` додатні; `(2x - 3y) / x`, якщо `7x > 2y` або `y > 2`; в інших випадках — `x - y`.
-

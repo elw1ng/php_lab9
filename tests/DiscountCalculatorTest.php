@@ -44,4 +44,3 @@ class DiscountCalculatorTest extends TestCase
         $this->calculator->calculateDiscount(0, 'VIP');
     }
 }
-

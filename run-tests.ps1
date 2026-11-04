@@ -7,4 +7,3 @@ $phpDirectory = Split-Path -Parent $phpPath
     "vendor/bin/phpunit"
 
 exit $LASTEXITCODE
-

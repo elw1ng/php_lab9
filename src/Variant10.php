@@ -20,4 +20,3 @@ class Variant10
         return $x - $y;
     }
 }
-

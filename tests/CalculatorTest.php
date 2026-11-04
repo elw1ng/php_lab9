@@ -44,4 +44,3 @@ class CalculatorTest extends TestCase
         $this->calculator->divide(10, 0);
     }
 }
-

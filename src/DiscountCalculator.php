@@ -22,4 +22,3 @@ class DiscountCalculator
         return 0.0;
     }
 }
-

@@ -31,4 +31,3 @@ class Variant10Test extends TestCase
         $calculator->calculate(0, 3);
     }
 }
-

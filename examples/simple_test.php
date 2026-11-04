@@ -43,4 +43,3 @@ $test->assertEquals(5, $calculator->add(2, 3), 'Додавання');
 $test->assertEquals(12, $calculator->multiply(3, 4), 'Множення');
 $test->printSummary();
 ?>
-
